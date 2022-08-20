@@ -6,6 +6,7 @@
 - Positioning of elements took less time in this project because of flexbox.
 - Took nearly four hours to complete this project.
 - Took 60% of the time to do something, which didn't give me satisfactory background image shaping results. But finally found out that the background image was given in a required shape and just applied some properties to it to get the required result.
+-Website is mobile responsive.
 
 - Below image shows the preview of the project:
 
